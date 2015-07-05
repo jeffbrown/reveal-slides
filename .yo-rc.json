@@ -6,6 +6,6 @@
     "useSass": false,
     "deployToGithubPages": true,
     "githubUsername": "jeffbrown",
-    "githubRepository": "revealslides"
+    "githubRepository": "reveal-slides"
   }
 }
